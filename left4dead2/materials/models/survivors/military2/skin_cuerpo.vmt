@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	// 1. EL COLOR BASE
+	"$basetexture" "models\survivors\military2\skin_cuerpo"
+
+	// 2. EL RELIEVE (Aquí es donde llamas a la Normal)
+	"$bumpmap"     "models\survivors\military2\skin_cuerpo_normal"
+
+	// 3. LOS EFECTOS (Brillo para que se vea real)
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "15"
+	"$phongfresnelranges" "[.2 .5 1]"
+}

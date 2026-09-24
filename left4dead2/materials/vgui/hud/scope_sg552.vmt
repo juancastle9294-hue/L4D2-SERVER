@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+    "$basetexture" "vgui/hud/scope_sg552_v4"
+    "$translucent" 1
+    "$alpha" 1
+    "$vertexalpha" 0
+    "$ignorez" 1
+}
